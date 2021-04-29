@@ -9,11 +9,11 @@ function imageswap () {
 }
 
 function hidetext () {
-  document.getElementById('SecondText').style.display = 'none'
+  document.getElementById('second-text').style.display = 'none'
 }
 
 function swaptext () {
-  document.getElementById('FirstText').innerHTML = 'and it did'
+  document.getElementById('first-text').innerHTML = 'and it did'
 }
 
 function background () {
